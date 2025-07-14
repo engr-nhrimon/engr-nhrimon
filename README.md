@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 # 💫 About Me:
-⚡ Currently working as a Senior Software Engineer at Grayshack Limited.<br>
+⚡ Currently working as a Senior Software Engineer at Fusionsoft Limited.<br>
 💡 Former Software Engineer at Graceview Limited.<br>
 🎓 I hold a B.Sc. in Computer Science & Engineering from Daffodil International University (DIU), Bangladesh.<br>
 🌱 I’m currently learning Devops.<br>
